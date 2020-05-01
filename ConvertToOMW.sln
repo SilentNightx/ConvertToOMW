@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConvertToOMW", "ConvertToOMW\ConvertToOMW.vbproj", "{4DA33BB4-8F4E-49A3-8824-471067DB397C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA33BB4-8F4E-49A3-8824-471067DB397C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA33BB4-8F4E-49A3-8824-471067DB397C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA33BB4-8F4E-49A3-8824-471067DB397C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA33BB4-8F4E-49A3-8824-471067DB397C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7763D0C2-1494-41A3-AE34-25016D2B9311}
+	EndGlobalSection
+EndGlobal
