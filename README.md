@@ -5,15 +5,15 @@ Converts Morrowind load order to OpenMW load order.
 Created in Visual Studio Community 2019 using VB.NET Core 3.1.
 
 # Build
-dotnet publish -r win-x64
+`dotnet publish -r win-x64`
 
-dotnet publish -r win-x86
+`dotnet publish -r win-x86`
 
-dotnet publish -r linux-x64
+`dotnet publish -r linux-x64`
 
-dotnet publish -r linux-arm
+`dotnet publish -r linux-arm`
 
-dotnet publish -r osx-x64
+`dotnet publish -r osx-x64`
 
 # Install
 Place executable for your OS in the same folder as Morrowind.exe.
